@@ -4,7 +4,7 @@
 <div align="center">
  
  
-  <h3><b>mobil</b></h3>
+  <h3><b>review</b></h3>
 
 </div>
 
@@ -32,11 +32,11 @@
 
 
 
-# 📖 [mobil] <a name="about-project"></a>
+# 📖 [review] <a name="about-project"></a>
 
 
 
-**[mobil]** is just a siple HTML and CSS project using linters to demostrate my knowledge with HTML, CSS and GitHub
+**[review]** is just a siple HTML and CSS project using linters to demostrate my knowledge with HTML, CSS and GitHub
 
 ## 🛠 Built With <a name="built-with"></a>
 
